@@ -9,3 +9,4 @@ argon2-cffi>=23.1,<26
 python-multipart>=0.0.9,<1
 pytest>=8,<10
 httpx>=0.27,<1
+psycopg[binary]>=3.2,<4

@@ -1,0 +1,15 @@
+.git
+.github
+.venv
+.env
+.env.*
+!.env.example
+__pycache__
+.pytest_cache
+*.pyc
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
+tests
+*.zip
